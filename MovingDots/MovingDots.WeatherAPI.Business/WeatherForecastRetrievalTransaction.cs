@@ -13,11 +13,16 @@ namespace MovingDots.WeatherAPI.Business
 
         public WeatherForecastResponse GetWeatherForecastForLocation(
             string cityName,
-            string desiredUnitOfMeasurement = "C")
+            string desiredUnitOfMeasurement)
         {
             if (string.IsNullOrEmpty(cityName))
             {
                 throw new ArgumentNullException(nameof(cityName));
+            }
+
+            if (string.IsNullOrEmpty(desiredUnitOfMeasurement))
+            {
+                desiredUnitOfMeasurement = CelsiusLetterRepresentation;
             }
 
             var getWeatherForecastForLocationResponse
