@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xg1QqoyAutCWW7y6BibISRLvKZQl1LViXevCxWNUkogiwsDc0twCY/fftcsMpitPMN9yL8Z4wGYqfnVEEFVk1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Integration\\MovingDots.WeatherAPI.Integration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emutlu\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

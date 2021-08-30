@@ -1,0 +1,9 @@
+C:\Users\emutlu\source\repos\Jestress\MovingDots\MovingDots\MovingDots.WeatherAPI.Messages\bin\Debug\netcoreapp3.1\MovingDots.WeatherAPI.Messages.deps.json
+C:\Users\emutlu\source\repos\Jestress\MovingDots\MovingDots\MovingDots.WeatherAPI.Messages\bin\Debug\netcoreapp3.1\MovingDots.WeatherAPI.Messages.dll
+C:\Users\emutlu\source\repos\Jestress\MovingDots\MovingDots\MovingDots.WeatherAPI.Messages\bin\Debug\netcoreapp3.1\MovingDots.WeatherAPI.Messages.pdb
+C:\Users\emutlu\source\repos\Jestress\MovingDots\MovingDots\MovingDots.WeatherAPI.Messages\obj\Debug\netcoreapp3.1\MovingDots.WeatherAPI.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emutlu\source\repos\Jestress\MovingDots\MovingDots\MovingDots.WeatherAPI.Messages\obj\Debug\netcoreapp3.1\MovingDots.WeatherAPI.Messages.AssemblyInfoInputs.cache
+C:\Users\emutlu\source\repos\Jestress\MovingDots\MovingDots\MovingDots.WeatherAPI.Messages\obj\Debug\netcoreapp3.1\MovingDots.WeatherAPI.Messages.AssemblyInfo.cs
+C:\Users\emutlu\source\repos\Jestress\MovingDots\MovingDots\MovingDots.WeatherAPI.Messages\obj\Debug\netcoreapp3.1\MovingDots.WeatherAPI.Messages.csproj.CoreCompileInputs.cache
+C:\Users\emutlu\source\repos\Jestress\MovingDots\MovingDots\MovingDots.WeatherAPI.Messages\obj\Debug\netcoreapp3.1\MovingDots.WeatherAPI.Messages.dll
+C:\Users\emutlu\source\repos\Jestress\MovingDots\MovingDots\MovingDots.WeatherAPI.Messages\obj\Debug\netcoreapp3.1\MovingDots.WeatherAPI.Messages.pdb

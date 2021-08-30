@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/2aupXb2hYali8ngVsKT/P1KJQUQ/Sm71L4d7L7RC5JUyJS/cBmgGjCEIRkO5mTwVi5tnaKvsnHrGEqx7UZd2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.Console\\MovingDots.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emutlu\\.nuget\\packages\\cronos\\0.7.1\\cronos.0.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
