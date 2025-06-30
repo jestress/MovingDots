@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OOId9uBbbouQIuyzT2EJCG0TQjHJ7V/ZLQ0Ft6iU0p+mqtrFY24j1PjgS2iRHZy2h8fC6x0QnS4z+jxJLULigg==",
+  "dgSpecHash": "+n6oVdhbiOTKewQooH6ZrmVv93ua9GGXk5fgLkljs5gXAynKjkPn0699gF3UkbofaYm95kU+N1EnQhbgRDUw5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Messages\\MovingDots.WeatherAPI.Messages.csproj",
+  "projectFilePath": "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Messages/MovingDots.WeatherAPI.Messages.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,42 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Integration\\MovingDots.WeatherAPI.Integration.csproj": {}
+    "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Integration/MovingDots.WeatherAPI.Integration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Integration\\MovingDots.WeatherAPI.Integration.csproj": {
+    "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Integration/MovingDots.WeatherAPI.Integration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Integration\\MovingDots.WeatherAPI.Integration.csproj",
+        "projectUniqueName": "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Integration/MovingDots.WeatherAPI.Integration.csproj",
         "projectName": "MovingDots.WeatherAPI.Integration",
-        "projectPath": "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Integration\\MovingDots.WeatherAPI.Integration.csproj",
-        "packagesPath": "C:\\Users\\emutlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Integration\\obj\\",
+        "projectPath": "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Integration/MovingDots.WeatherAPI.Integration.csproj",
+        "packagesPath": "/Users/jester/.nuget/packages/",
+        "outputPath": "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Integration/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\emutlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/jester/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://proget.server.lan/nuget/Hosting-Release": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Messages\\MovingDots.WeatherAPI.Messages.csproj": {
-                "projectPath": "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Messages\\MovingDots.WeatherAPI.Messages.csproj"
+              "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Messages/MovingDots.WeatherAPI.Messages.csproj": {
+                "projectPath": "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Messages/MovingDots.WeatherAPI.Messages.csproj"
               }
             }
           }
@@ -62,7 +53,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,36 +63,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Messages\\MovingDots.WeatherAPI.Messages.csproj": {
+    "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Messages/MovingDots.WeatherAPI.Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Messages\\MovingDots.WeatherAPI.Messages.csproj",
+        "projectUniqueName": "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Messages/MovingDots.WeatherAPI.Messages.csproj",
         "projectName": "MovingDots.WeatherAPI.Messages",
-        "projectPath": "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Messages\\MovingDots.WeatherAPI.Messages.csproj",
-        "packagesPath": "C:\\Users\\emutlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emutlu\\source\\repos\\Jestress\\MovingDots\\MovingDots\\MovingDots.WeatherAPI.Messages\\obj\\",
+        "projectPath": "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Messages/MovingDots.WeatherAPI.Messages.csproj",
+        "packagesPath": "/Users/jester/.nuget/packages/",
+        "outputPath": "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Messages/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\emutlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/jester/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://proget.server.lan/nuget/Hosting-Release": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -123,7 +106,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -132,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
         }
       }
     }
