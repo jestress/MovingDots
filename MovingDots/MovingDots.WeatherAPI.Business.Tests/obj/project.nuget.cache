@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZmaKdkOGbj/laHGHX9EYX0jBJVnodUL0c4FsJ3XVvUn4xC97eOo26Uq91DdJ+i/jzYFKRl8bfWbxNdHAGItnxQ==",
+  "dgSpecHash": "06OfWj35FY8=",
   "success": true,
   "projectFilePath": "/Users/jester/Code/MovingDots/MovingDots/MovingDots.WeatherAPI.Business.Tests/MovingDots.WeatherAPI.Business.Tests.csproj",
   "expectedPackageFiles": [
