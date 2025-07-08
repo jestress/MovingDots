@@ -2,7 +2,6 @@
 using Microsoft.Extensions.Logging;
 using MovingDots.WeatherAPI.Business;
 using MovingDots.WeatherAPI.Messages;
-using System;
 
 namespace MovingDots.WeatherAPI.Controllers
 {
