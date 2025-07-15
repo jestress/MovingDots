@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MovingDots.WeatherAPI.Business\MovingDots.WeatherAPI.Business.csproj" />
+    <ProjectReference Include="..\WeatherAPI.Business\WeatherAPI.Business.csproj" />
   </ItemGroup>
 
 </Project>

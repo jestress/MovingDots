@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using MovingDots.WeatherAPI.Business;
-using MovingDots.WeatherAPI.Messages;
+using WeatherAPI.Business;
+using WeatherAPI.Messages;
 
-namespace MovingDots.WeatherAPI.Controllers
+namespace WeatherAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]

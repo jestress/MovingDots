@@ -1,4 +1,4 @@
-﻿namespace MovingDots.WeatherAPI.Messages.OpenWeatherMap
+﻿namespace WeatherAPI.Messages.OpenWeatherMap
 {
     public class GetWeatherForecastForLocationRequest
     {

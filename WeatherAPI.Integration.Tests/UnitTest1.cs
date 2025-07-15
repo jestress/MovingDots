@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace MovingDots.WeatherAPI.Integration.Tests
+namespace WeatherAPI.Integration.Tests
 {
     public class Tests
     {

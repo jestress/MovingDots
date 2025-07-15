@@ -1,4 +1,4 @@
-﻿namespace MovingDots.WeatherAPI.Messages
+﻿namespace WeatherAPI.Messages
 {
     public class WeatherForecastResponse
     {

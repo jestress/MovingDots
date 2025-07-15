@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace MovingDots.WeatherAPI
+namespace WeatherAPI
 {
     public class Program
     {

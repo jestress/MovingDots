@@ -1,8 +1,8 @@
-﻿using MovingDots.WeatherAPI.Integration;
-using MovingDots.WeatherAPI.Messages;
+﻿using WeatherAPI.Integration;
+using WeatherAPI.Messages;
 using System;
 
-namespace MovingDots.WeatherAPI.Business
+namespace WeatherAPI.Business
 {
     public class WeatherForecastRetrievalTransaction
     {

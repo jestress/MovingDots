@@ -9,8 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MovingDots.WeatherAPI.Integration\MovingDots.WeatherAPI.Integration.csproj" />
-    <ProjectReference Include="..\MovingDots.WeatherAPI.Messages\MovingDots.WeatherAPI.Messages.csproj" />
+    <ProjectReference Include="..\WeatherAPI.Integration\WeatherAPI.Integration.csproj" />
+    <ProjectReference Include="..\WeatherAPI.Messages\WeatherAPI.Messages.csproj" />
   </ItemGroup>
 
 </Project>

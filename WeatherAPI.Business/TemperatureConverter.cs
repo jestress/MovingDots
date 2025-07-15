@@ -1,7 +1,7 @@
 ﻿using System;
 using UltimateTemperatureLibrary;
 
-namespace MovingDots.WeatherAPI.Business
+namespace WeatherAPI.Business
 {
     public static class TemperatureConverter
     {

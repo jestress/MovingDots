@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MovingDots.WeatherAPI.Messages.OpenWeatherMap
+namespace WeatherAPI.Messages.OpenWeatherMap
 {
     // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse); 
     public class Coord

@@ -1,9 +1,9 @@
-﻿using MovingDots.WeatherAPI.Messages.OpenWeatherMap;
+﻿using WeatherAPI.Messages.OpenWeatherMap;
 using RestSharp;
 using System;
 using System.Text.Json;
 
-namespace MovingDots.WeatherAPI.Integration
+namespace WeatherAPI.Integration
 {
     public class OpenWeatherApiIntegration
     {

@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using System;
 
-namespace MovingDots.WeatherAPI.Business.Tests
+namespace WeatherAPI.Business.Tests
 {
     public class Tests
     {
